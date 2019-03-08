@@ -8,4 +8,4 @@ Simply paste some text into the text area on the index page and a formatted list
 
 ## Try it out
 
-http://billiamram.com/email-parser/
+https://nguyenkaos.github.io/email-parser/
